@@ -1,0 +1,6 @@
+slack-bolt==1.30.0
+slack-sdk==3.43.0
+replicate==1.0.7
+python-dotenv==1.0.1
+requests==2.32.3
+pytest==8.3.4
